@@ -17,7 +17,8 @@
     "baseUrl": ".",
     "paths": {
       "@ddv/api-interfaces": ["libs/api-interfaces/src/index.ts"],
-      "@ddv/ui": ["libs/ui/src/index.ts"]
+      "@ddv/ui": ["libs/ui/src/index.ts"],
+      "@ddv/material": ["libs/material/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
